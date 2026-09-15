@@ -1,8 +1,9 @@
 # Municipal Water Infrastructure Capital Improvement Program — Project Controls & Risk Management System
 
-A simulated $96M, 12-project municipal water capital improvement program, built to demonstrate
-industrial engineering, project-controls, and program-management methods: work breakdown
-structures, baseline scheduling, earned value management (EVM), risk management, change control,
+A simulated $96.0M municipal water capital improvement program — 12 projects totaling $88.5M in
+baselined work plus a $7.5M program contingency reserve — built to demonstrate industrial
+engineering, project-controls, and program-management methods: work breakdown structures,
+baseline scheduling, earned value management (EVM), risk management, change control,
 resource/vendor tracking, and executive reporting via Excel and Power BI.
 
 > **Portfolio disclaimer:** This project uses synthetic data and a fictional municipal utility
