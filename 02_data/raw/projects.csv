@@ -1,0 +1,13 @@
+project_id,project_name,category,project_manager,bac,pct_of_program_budget,planned_start,planned_finish,planned_duration_months,status_as_of_status_date
+P01,Downtown 12-inch Water Main Replacement,Distribution,Maria Chen,8000000,0.0833,2025-01-01,2026-02-01,13,Substantially Complete
+P02,Northside Pump Station Rehabilitation,Pumping,David Okafor,9500000,0.099,2025-02-01,2026-09-01,19,In Construction
+P03,Central Water Treatment Plant Process Upgrade,Treatment,Sarah Whitfield,22000000,0.2292,2025-01-01,2027-09-01,32,In Construction
+P04,Hilltop Storage Tank Rehabilitation,Storage,James Patel,6000000,0.0625,2025-06-01,2026-04-01,10,In Construction
+P05,Lead Service Line Replacement - Phase 1,Distribution / Public Health,Maria Chen,12000000,0.125,2025-03-01,2026-12-01,21,In Construction
+P06,AMI / Smart Meter Modernization,Metering / Digital,Angela Torres,7500000,0.0781,2025-08-01,2026-10-01,14,In Construction
+P07,East Zone Pressure Management Improvements,Distribution,Robert Kim,4500000,0.0469,2025-10-01,2026-06-01,8,In Construction
+P08,Emergency Generator & Electrical Resiliency,Resiliency,Robert Kim,5000000,0.0521,2025-12-01,2027-02-01,14,Design / Early Construction
+P09,River Crossing Main Rehabilitation,Distribution,David Okafor,8500000,0.0885,2026-02-01,2027-04-01,14,Mobilization / Early Construction
+P10,SCADA Controls Modernization,Digital / Controls,Angela Torres,4000000,0.0417,2026-04-01,2027-03-01,11,Planning / Not Started
+P11,Valve Replacement & Isolation Program,Distribution,James Patel,3500000,0.0365,2025-04-01,2026-08-01,16,In Construction
+P12,Programwide Emergency / Contingency Work,Contingency,Program Controls Office,5500000,0.0573,2025-01-01,2027-12-01,35,Ongoing / As-Needed
