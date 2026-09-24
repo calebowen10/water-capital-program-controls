@@ -1,0 +1,13 @@
+﻿Assumption_ID,Resource_or_Issue,Approved_Assumption,Sensitivity_or_Note
+RA-01,Distribution/excavation contractors,7 concurrent crew groups available,Approved baseline capacity
+RA-02,Distribution constrained sensitivity,4 concurrent crews,Sensitivity only; not baseline
+RA-03,P05 field delivery,Maximum 3 concurrent field crew groups,Existing approved schedule assumption
+RA-04,P11 field delivery,Maximum 2 concurrent field crew groups,Existing approved schedule assumption
+RA-05,P12 recurring work,1 standing field crew/group per active annual cycle,Synthetic portfolio assumption
+RA-06,Owner commissioning,2 internal commissioning/acceptance teams,Approved baseline capacity
+RA-07,Late-2026 commissioning peak,+1 temporary specialist/vendor commissioning resource,Preserves P03/P06/P08 dates
+RA-08,Electrical resources,Multiple contractor packages may support approved overlap,Monitor P08/P10 overlap; capacity not hard-leveled
+RA-09,Controls/I&C resources,Multiple specialist resources may operate concurrently,Interface logic manages dependency rather than delaying all P10
+RA-10,Owner inspection,Capacity not hard-leveled yet,Track detailed demand before treating as a hard constraint
+RA-11,PM / project-controls staff,"Management workload KPI, not hard schedule constraint",Revisit if staffing model is added
+RA-12,Baseline feasibility,Dates feasible conditional on approved capacity assumptions,Portfolio baseline disclaimer

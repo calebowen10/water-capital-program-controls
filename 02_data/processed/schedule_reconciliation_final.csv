@@ -1,0 +1,13 @@
+﻿Project_ID,Phase_1_Planned_Start,Phase_1_Planned_Finish,Prior_Approved_Baseline_Start,Prior_Approved_Baseline_Finish,Approved_Recovery_Baseline_Start,Approved_Recovery_Baseline_Finish,Finish_Variance_Calendar_Days,Status,Notes
+P01,2025-01-01,2026-02-01,2025-01-02,2026-01-05,2025-01-02,2025-12-29,-7,APPROVED SYNTHETIC RECOVERY,Synthetic recovery of original unavailable executable schedule
+P02,2025-02-01,2026-09-01,2025-02-03,2026-04-01,2025-02-03,2026-02-25,-35,APPROVED SYNTHETIC RECOVERY,Synthetic recovery of original unavailable executable schedule
+P03,2025-01-01,2027-09-01,2025-01-02,2027-02-17,2025-01-02,2027-01-27,-21,APPROVED SYNTHETIC RECOVERY,Synthetic recovery of original unavailable executable schedule
+P04,2025-06-01,2026-04-01,2025-06-02,2026-04-24,2025-06-02,2026-04-24,0,UNCHANGED REFERENCE,"Unchanged project baseline, no new full reconstruction"
+P05,2025-03-01,2026-12-01,2025-03-03,2026-05-15,2025-03-03,2026-05-15,0,UNCHANGED REFERENCE,"Unchanged project baseline, no new full reconstruction"
+P06,2025-08-01,2026-10-01,2025-08-01,2027-01-07,2025-08-01,2026-12-24,-14,APPROVED SYNTHETIC RECOVERY,Synthetic recovery of original unavailable executable schedule
+P07,2025-10-01,2026-06-01,2025-10-01,2026-09-01,2025-10-01,2026-09-01,0,UNCHANGED REFERENCE,"Unchanged project baseline, no new full reconstruction"
+P08,2025-12-01,2027-02-01,2025-12-01,2027-01-08,2025-12-01,2027-01-08,0,UNCHANGED REFERENCE,"Unchanged project baseline, no new full reconstruction"
+P09,2026-02-01,2027-04-01,2026-02-02,2027-03-03,2026-02-02,2027-03-03,0,UNCHANGED REFERENCE,"Unchanged project baseline, no new full reconstruction"
+P10,2026-04-01,2027-03-01,2026-04-01,2027-08-20,2026-04-01,2027-08-06,-14,APPROVED SYNTHETIC RECOVERY,Synthetic recovery of original unavailable executable schedule
+P11,2025-04-01,2026-08-01,2025-04-01,2026-03-09,2025-04-01,2026-03-09,0,UNCHANGED REFERENCE,"Unchanged project baseline, no new full reconstruction"
+P12,2025-01-01,2027-12-01,2025-01-02,2027-06-23,2025-01-02,2027-06-23,0,UNCHANGED REFERENCE,"P12 is standing work, not a discrete program-level substantial-completion gate"
