@@ -1,0 +1,16 @@
+﻿QA_Test,Result,Status
+Source component BAC,88500000.00,PASS
+Baseline PV all 36 months,88500000.00,PASS
+Program authorized contingency,7500000.00,EXCLUDED
+Ownership lines,342,PASS
+Unique evidence IDs,343,PASS
+Unique cost entry IDs,391,PASS
+Evidence EV vs snapshot,0.00,PASS
+Cost ledger vs snapshot,0.00,PASS
+PV baseline unchanged,432,PASS
+All source schedule rows,428,UNCHANGED
+All source relationships,498,UNCHANGED
+Future actuals,0,PASS
+Fully completed projects EV= BAC,True,PASS
+EV cap and component progress,True,PASS
+Program EAC sum project EAC,95434737.44,PASS
