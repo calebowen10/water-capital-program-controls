@@ -1,0 +1,13 @@
+﻿Project_ID,Scenario_Type,Scope_Description,Synthetic_Workday_Shift,Synthetic_Actual_Cost_Factor_Pct,Source
+P01,CLOSED,Completed and accepted; post-completion invoices incur normal closeout adjustment.,0,100,SYNTHETIC_SCENARIO_V1
+P02,CLOSED,Completed; mechanical equipment experienced cost pressure.,0,110,SYNTHETIC_SCENARIO_V1
+P03,ACTIVE,Treatment equipment approval and construction progressing with modest delivery delay.,7,108,SYNTHETIC_SCENARIO_V1
+P04,ACTIVE,Tank rehabilitation has inspection/quality rework and cost pressure.,9,112,SYNTHETIC_SCENARIO_V1
+P05,ACTIVE,Four-zone field productivity below baseline.,11,115,SYNTHETIC_SCENARIO_V1
+P06,ACTIVE,AMI pilot staging experiencing integration delay and material premium.,8,108,SYNTHETIC_SCENARIO_V1
+P07,ACTIVE,PRV procurement and installation advancing with favorable productivity.,-3,96,SYNTHETIC_SCENARIO_V1
+P08,ACTIVE,Generator manufacturing/installation has vendor delay and procurement premium.,10,109,SYNTHETIC_SCENARIO_V1
+P09,EARLY,Service line preconstruction progressing; no invented early field installations.,4,103,SYNTHETIC_SCENARIO_V1
+P10,FUTURE,Not yet started at March 31 cutoff.,0,100,SYNTHETIC_SCENARIO_V1
+P11,CLOSED,Valve program completed; productivity savings.,0,95,SYNTHETIC_SCENARIO_V1
+P12,STANDING,Year 1 and early Year 2 work orders with mixed emergency response throughput.,5,106,SYNTHETIC_SCENARIO_V1
