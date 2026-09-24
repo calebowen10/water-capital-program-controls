@@ -1,0 +1,15 @@
+﻿QA_Test,Result,Status
+Project BAC from approved workbook (USD),88500000.00,PASS
+Cost ownership budget (USD),88500000.00,PASS
+Month PV through 2027-12 (USD),88500000.00,PASS
+Unallocated program contingency (USD),7500000.00,EXCLUDED FROM PV
+Total authorized (USD),96000000.00,PASS
+Control accounts,72,PASS
+Work packages,141,PASS
+Funded tasks,328,PASS
+Cost-ownership lines,342,PASS
+Schedule rows,428,UNCHANGED
+Schedule relationships,498,UNCHANGED
+Sparse detail project/line-month rows,571,PASS
+Project reporting rows,432,PASS
+Monthly program rows,36,PASS
