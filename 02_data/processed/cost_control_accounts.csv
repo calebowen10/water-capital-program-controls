@@ -1,0 +1,73 @@
+﻿Project_ID,Control_Account_ID,Control_Account_Name,Standard_Lifecycle_Phase,Project_BAC_USD,Proposed_CA_Share_Pct,Proposed_CA_BAC_USD,Allocation_Basis,Approval_Status,Candidate_Loaded_BAC_USD,Unresolved_BAC_USD,Phase3B_Status
+P01,P01-CA01,Planning,Planning,7400000,3,222000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,222000,0,RESOLVED_PHASE3G
+P01,P01-CA02,Design,Design,7400000,7,518000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,518000,0,RESOLVED_PHASE3G
+P01,P01-CA03,Procurement,Procurement,7400000,8,592000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,592000,0,RESOLVED_PHASE3G
+P01,P01-CA04,Construction,Construction,7400000,72,5328000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,5328000,0,RESOLVED_PHASE3G
+P01,P01-CA05,Testing & Commissioning,Testing & Commissioning,7400000,7,518000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,518000,0,RESOLVED_PHASE3G
+P01,P01-CA06,Closeout,Closeout,7400000,3,222000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,222000,0,RESOLVED_PHASE3G
+P02,P02-CA01,Planning,Planning,8800000,3,264000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,264000,0,RESOLVED_PHASE3G
+P02,P02-CA02,Design,Design,8800000,9,792000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,792000,0,RESOLVED_PHASE3G
+P02,P02-CA03,Procurement,Procurement,8800000,7,616000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,616000,0,RESOLVED_PHASE3G
+P02,P02-CA04,Construction,Construction,8800000,72,6336000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,6336000,0,RESOLVED_PHASE3G
+P02,P02-CA05,Testing & Commissioning,Testing & Commissioning,8800000,6,528000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,528000,0,RESOLVED_PHASE3G
+P02,P02-CA06,Closeout,Closeout,8800000,3,264000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,264000,0,RESOLVED_PHASE3G
+P03,P03-CA01,Planning,Planning,20300000,3,609000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,609000,0,RESOLVED_PHASE3G
+P03,P03-CA02,Design,Design,20300000,9,1827000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,1827000,0,RESOLVED_PHASE3G
+P03,P03-CA03,Procurement,Procurement,20300000,7,1421000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,1421000,0,RESOLVED_PHASE3G
+P03,P03-CA04,Construction,Construction,20300000,70,14210000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,14210000,0,RESOLVED_PHASE3G
+P03,P03-CA05,Testing & Commissioning,Testing & Commissioning,20300000,8,1624000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,1624000,0,RESOLVED_PHASE3G
+P03,P03-CA06,Closeout,Closeout,20300000,3,609000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,609000,0,RESOLVED_PHASE3G
+P04,P04-CA01,Planning,Planning,5500000,3,165000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,165000,0,RESOLVED_PHASE3G
+P04,P04-CA02,Design,Design,5500000,7,385000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,385000,0,RESOLVED_PHASE3G
+P04,P04-CA03,Procurement,Procurement,5500000,7,385000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,385000,0,RESOLVED_PHASE3G
+P04,P04-CA04,Construction,Construction,5500000,74,4070000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,4070000,0,RESOLVED_PHASE3G
+P04,P04-CA05,Testing & Commissioning,Testing & Commissioning,5500000,6,330000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,330000,0,RESOLVED_PHASE3G
+P04,P04-CA06,Closeout,Closeout,5500000,3,165000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,165000,0,RESOLVED_PHASE3G
+P05,P05-CA01,Planning,Planning,11100000,4,444000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,444000,0,RESOLVED_PHASE3G
+P05,P05-CA02,Design,Design,11100000,6,666000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,666000,0,RESOLVED_PHASE3G
+P05,P05-CA03,Procurement,Procurement,11100000,6,666000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,666000,0,RESOLVED_PHASE3G
+P05,P05-CA04,Construction,Construction,11100000,76,8436000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,8436000,0,RESOLVED_PHASE3G
+P05,P05-CA05,Testing & Commissioning,Testing & Commissioning,11100000,5,555000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,555000,0,RESOLVED_PHASE3G
+P05,P05-CA06,Closeout,Closeout,11100000,3,333000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,333000,0,RESOLVED_PHASE3G
+P06,P06-CA01,Planning,Planning,6900000,4,276000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,276000,0,RESOLVED_PHASE3G
+P06,P06-CA02,Design,Design,6900000,11,759000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,759000,0,RESOLVED_PHASE3G
+P06,P06-CA03,Procurement,Procurement,6900000,13,897000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,897000,0,RESOLVED_PHASE3G
+P06,P06-CA04,Construction,Construction,6900000,59,4071000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,4071000,0,RESOLVED_PHASE3G
+P06,P06-CA05,Testing & Commissioning,Testing & Commissioning,6900000,10,690000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,690000,0,RESOLVED_PHASE3G
+P06,P06-CA06,Closeout,Closeout,6900000,3,207000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,207000,0,RESOLVED_PHASE3G
+P07,P07-CA01,Planning,Planning,4100000,3,123000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,123000,0,RESOLVED_PHASE3G
+P07,P07-CA02,Design,Design,4100000,9,369000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,369000,0,RESOLVED_PHASE3G
+P07,P07-CA03,Procurement,Procurement,4100000,10,410000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,410000,0,RESOLVED_PHASE3G
+P07,P07-CA04,Construction,Construction,4100000,68,2788000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,2788000,0,RESOLVED_PHASE3G
+P07,P07-CA05,Testing & Commissioning,Testing & Commissioning,4100000,7,287000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,287000,0,RESOLVED_PHASE3G
+P07,P07-CA06,Closeout,Closeout,4100000,3,123000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,123000,0,RESOLVED_PHASE3G
+P08,P08-CA01,Planning,Planning,4600000,3,138000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,138000,0,RESOLVED_PHASE3G
+P08,P08-CA02,Design,Design,4600000,8,368000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,368000,0,RESOLVED_PHASE3G
+P08,P08-CA03,Procurement,Procurement,4600000,12,552000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,552000,0,RESOLVED_PHASE3G
+P08,P08-CA04,Construction,Construction,4600000,65,2990000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,2990000,0,RESOLVED_PHASE3G
+P08,P08-CA05,Testing & Commissioning,Testing & Commissioning,4600000,9,414000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,414000,0,RESOLVED_PHASE3G
+P08,P08-CA06,Closeout,Closeout,4600000,3,138000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,138000,0,RESOLVED_PHASE3G
+P09,P09-CA01,Planning,Planning,7800000,3,234000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,234000,0,RESOLVED_PHASE3G
+P09,P09-CA02,Design,Design,7800000,8,624000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,624000,0,RESOLVED_PHASE3G
+P09,P09-CA03,Procurement,Procurement,7800000,8,624000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,624000,0,RESOLVED_PHASE3G
+P09,P09-CA04,Construction,Construction,7800000,72,5616000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,5616000,0,RESOLVED_PHASE3G
+P09,P09-CA05,Testing & Commissioning,Testing & Commissioning,7800000,6,468000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,468000,0,RESOLVED_PHASE3G
+P09,P09-CA06,Closeout,Closeout,7800000,3,234000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,234000,0,RESOLVED_PHASE3G
+P10,P10-CA01,Planning,Planning,3700000,4,148000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,148000,0,RESOLVED_PHASE3G
+P10,P10-CA02,Design,Design,3700000,18,666000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,666000,0,RESOLVED_PHASE3G
+P10,P10-CA03,Procurement,Procurement,3700000,14,518000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,518000,0,RESOLVED_PHASE3G
+P10,P10-CA04,Construction,Construction,3700000,42,1554000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,1554000,0,RESOLVED_PHASE3G
+P10,P10-CA05,Testing & Commissioning,Testing & Commissioning,3700000,19,703000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,703000,0,RESOLVED_PHASE3G
+P10,P10-CA06,Closeout,Closeout,3700000,3,111000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,111000,0,RESOLVED_PHASE3G
+P11,P11-CA01,Planning,Planning,3200000,4,128000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,128000,0,RESOLVED_PHASE3G
+P11,P11-CA02,Design,Design,3200000,6,192000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,192000,0,RESOLVED_PHASE3G
+P11,P11-CA03,Procurement,Procurement,3200000,9,288000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,288000,0,RESOLVED_PHASE3G
+P11,P11-CA04,Construction,Construction,3200000,70,2240000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,2240000,0,RESOLVED_PHASE3G
+P11,P11-CA05,Testing & Commissioning,Testing & Commissioning,3200000,8,256000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,256000,0,RESOLVED_PHASE3G
+P11,P11-CA06,Closeout,Closeout,3200000,3,96000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,96000,0,RESOLVED_PHASE3G
+P12,P12-CA01,Planning & Prioritization,Planning,5100000,4,204000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,204000,0,RESOLVED_PHASE3G
+P12,P12-CA02,Design / Scope Development,Design,5100000,6,306000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,306000,0,RESOLVED_PHASE3G
+P12,P12-CA03,Procurement,Procurement,5100000,8,408000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,408000,0,RESOLVED_PHASE3G
+P12,P12-CA04,Execution,Construction,5100000,76,3876000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,3876000,0,RESOLVED_PHASE3G
+P12,P12-CA05,Verification / Acceptance,Testing & Commissioning,5100000,4,204000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,204000,0,RESOLVED_PHASE3G
+P12,P12-CA06,Closeout,Closeout,5100000,2,102000,Synthetic scope-based project-specific phase budget; review required,APPROVED_SYNTHETIC_PORTFOLIO,102000,0,RESOLVED_PHASE3G
